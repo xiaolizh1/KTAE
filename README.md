@@ -37,7 +37,7 @@ In summary, the KTAE algorithm offers several advantages:
 
 ## 📃 Contents
 
-- [Available Models](#Available Models)
+- [Models](#Available_Models)
 - [Setup](#Setup)
 - [Preparation](#Preparation)
 - [Train](#Train)
