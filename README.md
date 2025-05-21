@@ -10,9 +10,7 @@
 <a>Fuwei Cui</a>,
 <a>Shuo Ren</a>,
 <a>Jiajun Zhang</a>,
-<br>
-
-Alibaba Tongyi Lab<br>
+<br>CASIA<br>
     
 ![Mathematical-Reasoning](https://img.shields.io/badge/Task-Mathematical--Reasoning-red) ![Reinforcement-Learning](https://img.shields.io/badge/Method-Reinforcement--Learning-red) <a href='https://arxiv.org/abs/xxxx'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 </div>
