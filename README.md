@@ -37,12 +37,21 @@ In summary, the KTAE algorithm offers several advantages:
 
 ## 📃 Contents
 
+- [Available Models](#Available Models)
 - [Setup](#Setup)
 - [Preparation](#Preparation)
 - [Train](#Train)
 - [Inference](#Inference)
 - [Experiments](#Experiments)
 - [Citation](#citation)
+
+## 🧠 Available Models
+
+| Model Size | DAPO+KTAE | GRPO+KTAE |
+|------------|--------------|--------------|
+| 1.5B       | <a href="https://huggingface.co/SunW7777/DAPO_KTAE_1.5B"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="20"/> DAPO_KTAE_1.5B</a> | <a href="https://huggingface.co/SunW7777/GRPO_KTAE_1.5B"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="20"/> GRPO_KTAE_1.5B</a> |
+| 7B         | <a href="https://huggingface.co/SunW7777/DAPO_KTAE-7B"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="20"/> DAPO_KTAE-7B</a>   | <a href="https://huggingface.co/SunW7777/GRPO_KTAE-7B"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HF" width="20"/> GRPO_KTAE-7B</a>   |
+
 
 
 ## 📷 Setup
