@@ -111,6 +111,9 @@ bash run_eval.sh
 ## 👀 Experiments
 
 We provide some results in this section. More detailed results can be found in our paper.
+<div align=center>
+<img width="90%" src="assets/main_result.pdf"/>
+</div>
 
 ### Main Results
 
