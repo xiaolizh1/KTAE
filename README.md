@@ -101,8 +101,11 @@ bash merge_model.sh      #merge checkpoint
 
 ## ✅ Evaluation
 
+Our evaluate code is base on [Dr.GRPO].(https://github.com/sail-sg/understand-r1-zero)
+
 ```bash
-TBD
+cd eval
+bash run_eval.sh
 ```
 
 ## 👀 Experiments
