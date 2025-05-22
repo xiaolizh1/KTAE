@@ -112,7 +112,7 @@ bash run_eval.sh
 
 We provide some results in this section. More detailed results can be found in our paper.
 <div align=center>
-<img width="90%" src="assets/main_result.pdf"/>
+<img width="90%" src="assets/main_result.png"/>
 </div>
 
 ### Main Results
