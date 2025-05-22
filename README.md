@@ -121,12 +121,12 @@ We provide some results in this section. More detailed results can be found in o
 
 + Comparison with baselines on Accuracy.
 <div align=center>
-<img width="90%" src="assets/result_2.png"/>
+<img width="90%" src="assets/result2.png"/>
 </div>
 
 + Comparison with baselines on Efficiency.
 <div align=center>
-<img width="90%" src="assets/result_4.png"/>
+<img width="90%" src="assets/result4.png"/>
 </div>
 
 
