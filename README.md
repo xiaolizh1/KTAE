@@ -74,23 +74,30 @@ cd KTAE
 pip install -r requirements.txt
 ```
 
-## 💡 Preparation
-
-
-```bash
-bash scripts/xxxx
-```
-
 ## 📈 Train
 
-Our training is mostly performed on [Verl](https://github.com/volcengine/verl) code base. Please refer to that repo for more details.
+Our training is mostly performed on [Verl](https://github.com/volcengine/verl) code base and makes some changes. 
 
-##  📌 Inference
+##  📌 GRPO+KTAE
 
 ```bash
-TBD
+bash examples/grpo_trainer/run_qwen2.5_7b.sh    #train 7b model
+bash examples/grpo_trainer/run_qwen2.5_math_1.5b.sh   #train 1.5b model
 ```
 
+##  📌 DAPO+KTAE
+
+```bash
+bash recipe/dapo/run_dapo_qwen2.5_7b.sh    #train 7b model
+bash recipe/dapo/run_dapo_qwen2.5_1.5b.sh    #train 1.5b model
+```
+
+##  📌 Merge Model
+
+```bash
+cd scripts
+bash merge_model.sh      #merge checkpoint
+```
 
 ## ✅ Evaluation
 
