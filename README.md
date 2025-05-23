@@ -12,7 +12,7 @@
 <a>Jiajun Zhang</a>
 <br> Institute of Automation Chinese Academy of Sciences <br>
     
-![Mathematical-Reasoning](https://img.shields.io/badge/Task-Mathematical--Reasoning-red) ![Reinforcement-Learning](https://img.shields.io/badge/Method-Reinforcement--Learning-red) <a href='https://arxiv.org/abs/xxxx'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
+![Mathematical-Reasoning](https://img.shields.io/badge/Task-Mathematical--Reasoning-red) ![Reinforcement-Learning](https://img.shields.io/badge/Method-Reinforcement--Learning-red) <a href='https://arxiv.org/abs/2505.16826'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 </div>
 
 ## 🔖 Overview
@@ -150,7 +150,15 @@ We provide some results in this section. More detailed results can be found in o
 If you find this repo useful for your research, please consider citing the paper
 
 ```
-TBD
+@misc{sun2025ktaemodelfreealgorithmkeytokens,
+      title={KTAE: A Model-Free Algorithm to Key-Tokens Advantage Estimation in Mathematical Reasoning}, 
+      author={Wei Sun and Wen Yang and Pu Jian and Qianlong Du and Fuwei Cui and Shuo Ren and Jiajun Zhang},
+      year={2025},
+      eprint={2505.16826},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2505.16826}, 
+}
 ```
 
 ## 🌈 Acknowledgement
